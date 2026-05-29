@@ -1,0 +1,30 @@
+# 03 — Individual Reflection 
+
+## Đóng góp trong nhóm
+
+| Hoạt động | Minh đã làm gì? | Kết quả |
+|---|---|---|
+| Scan cá nhân | Đưa ra 8 problems | Đa số các problem đều rất hy hữu: không có đội ngũ test, tồn đọng dữ liệu sai về tài liệu, câu hỏi,... |
+| Challenge/Interview | Hỏi từng thành viên về workflow cho từng problem, chọn ra problem phổ biến nhất, có workflow khả dĩ nhất | Nhóm loại bớt scope quá rộng cũng như là những problem quá ít gặp hay các vấn đề chưa cần dùng đến AI Agents |
+| Research | Phân tích bài toán được chọn, về chọn nhà trọ cho sinh viên, người đi làm | Nhóm đã thống nhất rằng bài toán có độ phức tạp cao và độ mơ hồ cũng cao do các ngôn ngữ tự do, viết tắt, thiếu thông tin, dẫn tới các bước thu thập dữ liệu phức tạp hơn |
+| Rule / Workflow / Agent | Đề xuất Agent có thể bóc tách dữ liệu phi cấu trúc, gọi map, tạo shortlist và cảnh báo rủi ro khi chọn nhà | Nhóm thống nhất decision này |
+## Bảng dùng AI trong reflection
+
+| Phase | Tôi dùng AI để làm gì? | AI hữu ích ở đâu? | AI sai/hời hợt ở đâu? | Tôi sửa gì |
+|---|---|---|---|---|
+| Scan | Gợi ý thêm problems theo công việc nhập liệu mình từng làm | Giúp nhớ thêm các vấn đề phát sinh mới trong quá trình nhập liệu, đặc biệt là về khả năng học dữ liệu bị sai của hệ thống | Gợi ý vài ý quá rộng | Bỏ các ý chung chung và không đi vào workflow cốt lõi |
+| Workflow | Nhờ AI phân tích thêm các workflow cho các problems xung quanh | Có thêm các cách đo lường mới | Chưa đề xuất thêm những giải pháp tốt hơn với các vấn đề cần sự tối ưu hoá | Dựa trên workflow sẵn có, tự đưa ra thêm các metric nhằm tối ưu hoá các problem trong problem card 2 và 3 |
+| Final Check cho phần Individual Problem Scan | Nhờ AI rà soát lại các workflow của riêng mình | Có thể đưa ra các giải pháp rút gọn thời gian của các quy trình trong current workflow và future workflow | Chưa đề xuất thêm những giải pháp tốt hơn với các vấn đề cần sự tối ưu hoá | Dựa trên workflow sẵn có, tự đưa ra thêm các metric nhằm tối ưu hoá các problem trong problem card 2 và 3 |
+
+## Bài học 
+
+- Problem tốt không phải problem cần đến AI nhất, mà là problem có workflow và metric rõ ràng.
+- Workflow luôn là thứ quyết định thành bại của mọi project, Agent là hệ quả cho mọi Workflow đã đề ra và thực hiện.
+- Automation testing hoàn toàn có thể tích hợp AI Agent trong các việc như check các trường nhập liệu, typo.
+- Những tồn đọng lớn về mặt nhân sự hay những công việc cần đến yếu tố con người, workflow là thứ quyết định chính cho tất cả, hoàn toàn do con người quyết định và quản lý.
+
+## Nếu làm lại:
+
+Tôi sẽ lựa chọn những problem có tính phổ biến cao hơn, có thể trong product, business, vì baseline hiện tại chủ yếu đến từ trải nghiệm trong giai đoạn làm việc trong một startup trước đây của tôi và có sự hy hữu rất lớn.
+
+
